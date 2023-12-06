@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RESTAPILibraryApp</string>
+    <string name="img_cover">Book cover</string>
+    <string name="search_item">Search</string>
+    <string name="clear_item">Clear search</string>
+    <string name="something_wrong">Something went wrong... Please try again later</string>
+</resources>
